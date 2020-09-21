@@ -1,4 +1,4 @@
-# tg-scaleable
+# tg-aspect-ratio
 
 ## Project setup
 ```
