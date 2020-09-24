@@ -14,9 +14,13 @@ export default {
         } while (false)
 
         return false
-      }
+      },
+      default: 1,
     },
-    h: [Number, String],
+    h: {
+      type: [Number, String],
+      default: 1,
+    },
   },
   computed: {
     ratio () {
