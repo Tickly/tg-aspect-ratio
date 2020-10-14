@@ -13,6 +13,7 @@ npm i tg-aspect-ratio
 ``` js
 import Vue from 'vue'
 import TgAspectRatio from 'tg-aspect-ratio'
+import 'tg-aspect-ratio/dist/index.css'
 
 Vue.use(TgAspectRatio)
 ```
